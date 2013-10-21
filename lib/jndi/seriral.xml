@@ -1,0 +1,42 @@
+<series chart-type="vertical-area" ref="s1">
+	<data title="RCOMPANYNAME" categoryAxis="RCATEGORYNAME"
+		numberAxis="CB" ref="s1" autoData="true" id="data1" />
+	<config>
+		<background-color>#FFFFFF</background-color>
+		<background-alpha>0.6f</background-alpha>
+		<foreground-alpha>0.9f</foreground-alpha>
+		<category-title>供应商</category-title>
+		<category-title-color>#000000</category-title-color>
+		<category-title-font name="黑体" style="0" size="12" />
+		<category-margin>0.0</category-margin>
+		<category-upper-margin>0.1</category-upper-margin>
+		<category-lower-margin>0.1</category-lower-margin>
+		<category-label-max-width>10</category-label-max-width>
+		<category-item-margin>0.2</category-item-margin>
+		<category-item-label-visible>true</category-item-label-visible>
+		<category-item-label-font name="黑体" style="0"
+			size="12" />
+		<category-item-label-color>#000000</category-item-label-color>
+		<category-item-label-number-format>######.00</category-item-label-number-format>
+		<category-item-label-angle>0</category-item-label-angle>
+		<category-tick-label-font name="黑体" style="0"
+			size="12" />
+		<category-tick-label-color>#000000</category-tick-label-color>
+		<serie-title>采购费用1</serie-title>
+		<serie-title-color>#000000</serie-title-color>
+		<serie-title-font name="黑体" style="0" size="12" />
+		<serie double-axis="false" one-axis-location="TOP_OR_LEFT"
+			two-axis-location="BOTTOM_OR_RIGHT" />
+		<serie-tick-label-font name="黑体" style="0" size="12" />
+		<serie-tick-label-color>#000000</serie-tick-label-color>
+		<serie-upper-margin>0.1</serie-upper-margin>
+		<serie-number visible="true" auto="true" start="0" end="60000"
+			step="6000"></serie-number>
+		<serie-number-format>####</serie-number-format>
+		<marker visible="false" label="marker" value="100" color="#EE0000" />
+		<marker-label-font name="黑体" style="0" size="12" />
+		<href model="" title="" />
+		<map-tool-tip-label-style>({0}, {1}) = {2}</map-tool-tip-label-style>
+		<map-tool-tip-format type="number">######.00</map-tool-tip-format>
+	</config>
+</series>

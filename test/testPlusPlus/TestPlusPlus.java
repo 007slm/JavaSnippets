@@ -1,0 +1,14 @@
+package testPlusPlus;
+
+public class TestPlusPlus {
+	
+	//j++ 是先返回值后计算
+	public static void main(String[] args) {
+		int j = 0; 
+		for(int i=0; i<100; i++) {   
+		  j = j++;   
+		}
+		System.out.println(j);  
+
+	}
+}

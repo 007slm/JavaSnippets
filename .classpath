@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="classload"/>
+	<classpathentry kind="src" path="classPathDump"/>
+	<classpathentry kind="src" path="codeSnippets"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/activeio-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-core-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jaas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15-146.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3_1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/daisy-repository-server-impl-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1_6_1.jar"/>
+	<classpathentry kind="lib" path="lib/easymock-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/EncodingTest.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-spec-jms-1.1-rc4.jar"/>
+	<classpathentry kind="lib" path="lib/h2-1.2.131.jar"/>
+	<classpathentry kind="lib" path="lib/h2-1.2.144.jar"/>
+	<classpathentry kind="lib" path="lib/JavaPNS_2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.9_v20090731_update20100302.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/nutzdoc-1.14.jar"/>
+	<classpathentry kind="lib" path="lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="lib/servletapi-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/chart/jaxen-full-1.0-FCS.jar"/>
+	<classpathentry kind="lib" path="lib/chart/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/chart/jfreechart-1.0.9_v20090731_update20100302.jar"/>
+	<classpathentry kind="lib" path="lib/chart/saxpath.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
