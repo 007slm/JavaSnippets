@@ -10,6 +10,7 @@
 	<classpathentry kind="src" path="classPathDump"/>
 	<classpathentry kind="src" path="codeSnippets"/>
 	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="concurrentTest"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -51,5 +52,7 @@
 	<classpathentry kind="lib" path="lib/chart/jcommon-1.0.12.jar"/>
 	<classpathentry kind="lib" path="lib/chart/jfreechart-1.0.9_v20090731_update20100302.jar"/>
 	<classpathentry kind="lib" path="lib/chart/saxpath.jar"/>
+	<classpathentry kind="lib" path="lib/biz-api.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1_3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
